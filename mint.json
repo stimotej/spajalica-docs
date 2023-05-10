@@ -5,27 +5,43 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo.svg",
+  "backgroundImage": "/images/background.png",
   "colors": {
-    "primary": "#FF1479",
-    "light": "#FF1479",
-    "dark": "#FF1479"
+    "primary": "#9333ea",
+    "light": "#9333ea",
+    "dark": "#9333ea"
+  },
+  "topAnchor": {
+    "name": "Dokumentacija"
   },
   "anchors": [
     {
       "name": "Web aplikacija",
       "icon": "browser",
-      "url": "https://app.spajalica.hr/"
+      "url": "https://app.spajalica.hr/",
+      "color": {
+        "from": "#1447FE",
+        "to": "#FF1479"
+      }
     },
     {
       "name": "App store",
       "icon": "app-store",
-      "url": "https://apps.apple.com/hr/app/spajalica/id1622111409?l=hr"
+      "url": "https://apps.apple.com/hr/app/spajalica/id1622111409?l=hr",
+      "color": {
+        "from": "#1447FE",
+        "to": "#FF1479"
+      }
     },
     {
       "name": "Google play",
       "icon": "google-play",
-      "url": "https://play.google.com/store/apps/details?id=me.listapp.list"
+      "url": "https://play.google.com/store/apps/details?id=me.listapp.list",
+      "color": {
+        "from": "#1447FE",
+        "to": "#FF1479"
+      }
     }
   ],
   "navigation": [
