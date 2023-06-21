@@ -51,11 +51,19 @@
     },
     {
       "group": "Studenti",
-      "pages": ["studenti/registracija"]
+      "pages": [
+        "studenti/registracija",
+        "studenti/digitalni-zivotopis",
+        "studenti/ponuda-poslova",
+        "studenti/poslodavci"
+      ]
     },
     {
       "group": "Poslodavci",
-      "pages": ["poslodavci/registracija", "poslodavci/aktivacija-digitalnog-potpisa"]
+      "pages": [
+        "poslodavci/registracija",
+        "poslodavci/aktivacija-digitalnog-potpisa"
+      ]
     }
   ],
   "footerSocials": {
