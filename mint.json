@@ -47,7 +47,7 @@
   "navigation": [
     {
       "group": "Dobro došli",
-      "pages": ["opcenito"]
+      "pages": ["opcenito", "brisanje-racuna"]
     },
     {
       "group": "Studenti",
